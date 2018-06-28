@@ -1,0 +1,16 @@
+{
+  "name": "Petrov2",
+  "surname": "Вася",
+  "birth": "июн 6, 1988",
+  "health": false
+}{
+  "name": "22",
+  "surname": "22",
+  "birth": "дек 12, 1988",
+  "health": true
+}{
+  "name": "Petrov",
+  "surname": "Вася",
+  "birth": "дек 13, 1988",
+  "health": false
+}
